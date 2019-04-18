@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1552940785 source:/home/gvidas/Mokslai/c++/2laboras/klases/VardineAtkarpa3D.cpp
+	"VardineAtkarpa3D.h"
+	<iostream>
+	<string.h>
+
+1552940772 /home/gvidas/Mokslai/c++/2laboras/klases/VardineAtkarpa3D.h
+	"VardinisTaskas3D.h"
+
+1552940746 /home/gvidas/Mokslai/c++/2laboras/klases/VardinisTaskas3D.h
+
+1552823046 source:/home/gvidas/Mokslai/c++/2laboras/klases/VardineSfera3D.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+	"VardineSfera3D.h"
+
+1552773832 /home/gvidas/Mokslai/c++/2laboras/klases/VardineSfera3D.h
+	"VardineAtkarpa3D.h"
+
+1552941384 source:/home/gvidas/Mokslai/c++/2laboras/klases/VardinisKubas3D.cpp
+	<math.h>
+	<iostream>
+	<string.h>
+	"VardinisKubas3D.h"
+
+1552941239 /home/gvidas/Mokslai/c++/2laboras/klases/VardinisKubas3D.h
+	"VardineAtkarpa3D.h"
+	<vector>
+
+1552941417 source:/home/gvidas/Mokslai/c++/2laboras/klases/VardinisTaskas3D.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"VardinisTaskas3D.h"
+
+1552777777 source:/home/gvidas/Mokslai/c++/2laboras/klases/VardinisTrikampis3D.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	"VardinisTrikampis3D.h"
+
+1552775089 /home/gvidas/Mokslai/c++/2laboras/klases/VardinisTrikampis3D.h
+	"VardineAtkarpa3D.h"
+
