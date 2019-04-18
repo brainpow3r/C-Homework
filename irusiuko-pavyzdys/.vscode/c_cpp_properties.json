@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/local/lib/wx/include/gtk3-unicode-static-3.0/wx",
+                "/home/gvidas/wxWidgets-3.0.4/include/wx/",
+                "/home/gvidas/wxWidgets-3.0.4/include/**",
+                "~/lib/vc_lib/msw/wx/**",
+                "${workspaceFolder}/**",
+                "/home/gvidas/wxWidgets-3.0.4/include/msvc",
+                "/home/gvidas/wxWidgets-3.0.4/include/msvc/**",
+                "/home/gvidas/wxWidgets-3.0.4/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
